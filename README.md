@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suraj8485
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ language
+- 🌱 I’m currently learning Deep learning language
 - 💞️ I’m looking to collaborate on 
 - 📫 anyone reach me through whatsapp
 - 😄 Pronouns: ...
